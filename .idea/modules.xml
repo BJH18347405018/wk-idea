@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tes1-AdvancedCode/Tes1-AdvancedCode.iml" filepath="$PROJECT_DIR$/Tes1-AdvancedCode/Tes1-AdvancedCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1-BasicCode/Test1-BasicCode.iml" filepath="$PROJECT_DIR$/Test1-BasicCode/Test1-BasicCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" />
+    </modules>
+  </component>
+</project>
